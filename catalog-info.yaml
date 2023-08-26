@@ -7,6 +7,7 @@ metadata:
     github.com/project-slug: backstage/demo
     backstage.io/kubernetes-id: backstage-demo-app
     backstage.io/kubernetes-namespace: geo-distance-api
+    argocd/app-name: geo-distance-api
 spec:
   type: website
   owner: backstage/maintainers
